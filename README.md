@@ -2,7 +2,7 @@
 
 ### Repository klónozása
 
-	git clone https://github.com/szabopeter1/dotfiles.git ~/.dotfiles
+	git clone https://github.com/szabopeter1/.dotfiles.git ~/.dotfiles
 	
 
 ### Szimbolikus linkek létrehozása a config fájlokhoz:
