@@ -1,4 +1,5 @@
 syntax on
+set wildmenu
 
 " Indent
 set autoindent
