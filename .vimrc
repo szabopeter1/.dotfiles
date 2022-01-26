@@ -1,4 +1,10 @@
 syntax on
+
+" Statusline (Powerline needed)
+set laststatus=2
+
+" Commandline autocompletion
+set wildmode=longest,list
 set wildmenu
 
 " Indent
