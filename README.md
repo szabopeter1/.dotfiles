@@ -10,6 +10,10 @@
 
 	ln -s -f ~/.dotfiles/kitty.conf ~/.config/kitty/kitty.conf
 
+##### Rofi
+
+	ln -s -f ~/.dotfiles/config.rasi ~/.config/rofi/config.rasi
+
 ##### Vim
 
 	ln -s -f ~/.dotfiles/.vimrc ~/.vimrc
