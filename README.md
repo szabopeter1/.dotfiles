@@ -18,6 +18,10 @@
 
 	ln -s -f ~/.dotfiles/.vimrc ~/.vimrc
 
+##### Vim
+	
+	ln -s -f ~/.dotfiles/.bashrc ~/.bashrc
+	
 ##### Xterm
 
 	ln -s -f ~/.dotfiles/.Xresources ~/.Xresources
