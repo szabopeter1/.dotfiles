@@ -18,7 +18,7 @@
 
 	ln -s -f ~/.dotfiles/.vimrc ~/.vimrc
 
-##### Vim
+##### Bash
 	
 	ln -s -f ~/.dotfiles/.bashrc ~/.bashrc
 	
