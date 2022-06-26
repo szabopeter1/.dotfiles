@@ -5,27 +5,6 @@ xterm*visualBell:  off
 xterm*scrollBar:  true
 xterm*rightScrollBar:  true
 
-! Solarized dark theme
-#define S_base02  #073642
-#define S_base03  #002b36
-#define S_base01  #586e75
-#define S_base00  #657b83
-#define S_base0   #839496
-#define S_base1   #93a1a1
-#define S_base2   #eee8d5
-#define S_base3   #fdf6e3
-
-/*
-xterm*background:  S_base03
-xterm*foreground:  S_base0
-xterm*cursorColor:  S_base1
-
-xterm*fading:  40
-xterm*fadeColor:  S_base03
-xterm*pointerColorBackground:  S_base01
-xterm*pointerColorForeground:  S_base1
-*/
-
 ! Tango theme
 xterm*foreground:       #eeeeec
 xterm*background:       #2e3436
