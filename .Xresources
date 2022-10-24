@@ -5,6 +5,10 @@ xterm*visualBell:  off
 xterm*scrollBar:  true
 xterm*rightScrollBar:  true
 
+XTerm*vt100.translations: #override \
+  Shift Ctrl <Key> C: copy-selection(CLIPBOARD) \n\
+  Shift Ctrl <Key> V: insert-selection(CLIPBOARD)
+
 ! Tango theme
 xterm*foreground:       #eeeeec
 xterm*background:       #2e3436
